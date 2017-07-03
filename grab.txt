@@ -1,0 +1,78 @@
+
+        /*switch (pos) {
+
+
+            case Coords.B1:
+                image(pawn_img, Coords.B1[0], Coords.B1[1]);
+                rect(Coords.B1[0], Coords.B1[1], Coords.B1[2], Coords.B1[3]);
+                break;
+
+
+            case Coords.B2:image(pawn_img, Coords.B2[0], Coords.B2[1]);
+                rect(Coords.B2[0], Coords.B2[1], Coords.B2[2], Coords.B2[3]);
+                break;
+
+            case Coords.B3:image(pawn_img, Coords.B3[0], Coords.B3[1]);
+                rect(Coords.B3[0], Coords.B3[1], Coords.B3[2], Coords.B3[3]);
+                break;
+
+            case Coords.B4:image(pawn_img, Coords.B4[0], Coords.B4[1]);
+                rect(Coords.B4[0], Coords.B4[1], Coords.B4[2], Coords.B4[3]);
+                break;
+
+            case Coords.B5:image(pawn_img, Coords.B5[0], Coords.B5[1]);
+                rect(Coords.B5[0], Coords.B5[1], Coords.B5[2], Coords.B5[3]);
+                break;
+
+            case Coords.B6:image(pawn_img, Coords.B6[0], Coords.B6[1]);
+                rect(Coords.B6[0], Coords.B6[1], Coords.B6[2], Coords.B6[3]);
+                break;
+
+            case Coords.B7:image(pawn_img, Coords.B7[0], Coords.B7[1]);
+                rect(Coords.B7[0], Coords.B7[1], Coords.B7[2], Coords.B7[3]);
+                break;
+
+            case Coords.B8:image(pawn_img, Coords.B8[0], Coords.B8[1]);
+                rect(Coords.B8[0], Coords.B8[1], Coords.B8[2], Coords.B8[3]);
+                break;
+
+
+            case Coords.A1:image(pawn_img, Coords.A1[0], Coords.A1[1]);
+                rect(Coords.A1[0], Coords.A1[1], Coords.A1[2], Coords.A1[3]);
+                break;
+
+
+            case Coords.A2:image(pawn_img, Coords.A2[0], Coords.A2[1]);
+                rect(Coords.A2[0], Coords.A2[1], Coords.A2[2], Coords.A2[3]);
+                break;
+
+            case Coords.A3:image(pawn_img, Coords.A3[0], Coords.A3[1]);
+                rect(Coords.A3[0], Coords.A3[1], Coords.A3[2], Coords.A3[3]);
+                break;
+
+            case Coords.A4:image(pawn_img, Coords.A4[0], Coords.A4[1]);
+                rect(Coords.A4[0], Coords.A4[1], Coords.A4[2], Coords.A4[3]);
+                break;
+
+            case Coords.A5:image(pawn_img, Coords.A5[0], Coords.A5[1]);
+                rect(Coords.A5[0], Coords.A5[1], Coords.A5[2], Coords.A5[3]);
+                break;
+
+            case Coords.A6:image(pawn_img, Coords.A6[0], Coords.A6[1]);
+                rect(Coords.A6[0], Coords.A6[1], Coords.A6[2], Coords.A6[3]);
+                break;
+
+            case Coords.A7:image(pawn_img, Coords.A7[0], Coords.A7[1]);
+                rect(Coords.A7[0], Coords.A7[1], Coords.A7[2], Coords.A7[3]);
+                break;
+
+            case Coords.A8:image(pawn_img, Coords.A8[0], Coords.A8[1]);
+                rect(Coords.A8[0], Coords.A8[1], Coords.A8[2], Coords.A8[3]);
+                break;
+
+
+            default:
+                console.log(ERR.COORD_NOT_FOUND);
+                break;
+
+        }*/
